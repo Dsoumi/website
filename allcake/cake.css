@@ -1,0 +1,76 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.col {
+      color: white;
+      float: left;
+      width: 100%;
+      padding: 10px;
+   }
+   .colContainer:after {
+      content: "";
+      display: table;
+      clear: both;
+   }
+   .row{
+   height:500px;
+   width:100%;
+   background-color:#E8E7E6;}
+   
+    .row1{
+   height:120px;
+   width:100%;
+   background-color:#E8E7E6;}
+   .box{
+   float:left;
+   height:500px;
+   width:400px;
+   margin-left:130px;
+    background-color:white;}
+	
+	.box2{
+   float:left;
+   height:500px;
+   width:400px;
+   margin-left:20px;
+    background-color:white;}
+   
+   
+	.img{
+	height:400px;
+    width:300px;
+	margin-left:50px;
+	margin-top:20px;
+	}
+	
+	.box1{
+   float:left;
+   height:500px;
+   width:400px;
+    margin-left:130px;
+	 margin-top:10px;
+   background-color:white;
+  }
+  .box3{
+   float:left;
+   height:500px;
+   width:400px;
+   margin-left:20px;
+    background-color:white;
+	 margin-top:10px;}
+	 
+  .heading{
+  text-align:center;
+  padding-top:60px;
+  }
+   .name{
+   margin-left:50px;
+    margin-top:10px;
+   }
+   .price{
+   margin-left:50px;
+    margin-top:10px;
+	font-weight:bold;
+   }
